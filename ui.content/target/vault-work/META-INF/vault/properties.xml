@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>WKND Events - UI content</comment>
+<entry key="path">/etc/packages/aem-guides/wknd-events/aem-guides-wknd-events.ui.content.zip</entry>
+<entry key="acHandling">merge_preserve</entry>
+<entry key="createdBy">velmurugan</entry>
+<entry key="created">2019-03-28T23:48:21.611+0530</entry>
+<entry key="groupId">com.adobe.aem.guides</entry>
+<entry key="name">aem-guides-wknd-events.ui.content</entry>
+<entry key="description">UI content package for WKND Events</entry>
+<entry key="artifactId">aem-guides-wknd-events.ui.content</entry>
+<entry key="version">0.0.1-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">aem-guides/wknd-events</entry>
+</properties>
